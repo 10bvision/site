@@ -1,0 +1,66 @@
+{
+  "Footer": {
+    "text": "حقوق النشر {date, date, ::yyyy} دلتن كرافن | انظر المصدر على <Link><ltr>GitHub</ltr></Link>"
+  },
+  "Header": {
+    "pfp": "صورة الشخصية",
+    "name": "<ltr>Dalton Craven</ltr>",
+    "tagline": "طالب ومطور"
+  },
+  "LanguageToggle": {
+    "Read in": "<ltr>Read in:</ltr>",
+    "en": "<ltr>English</ltr>",
+    "fr": "<ltr>Français</ltr>",
+    "ar": "<rtl>العربية</rtl>"
+  },
+  "pages": {
+    "Index": {
+      "title": "الرئيسية | دالتون كرافن",
+      "greeting": "مرحبا! اسمي <Color>دلتن كرافن</Color>. ",
+      "intro": "أنا أكثر متطورا على الإنترنت، ولكن بعد ذلك أنا أستطيع أن أقولك عني:",
+      "education": {
+        "header": "التعليم",
+        "content": "أنا مبتدئ في جامعة ساوث كارولينا. أنا أسعى للحصول على بكالوريوس العلوم في علوم الكمبيوتر مع تخصص في علوم الكمبيوتر وتخصص ثانوي في علم النفس (غريب ، أليس كذلك؟). أنا أيضًا باحث في <ltr>McNair</ltr> كجزء من برنامج المنح الدراسية الأكثر شهرة في <ltr>UofSC</ltr> ، أفضل العلماء الجامعيين."
+      },
+      "study_abroad": {
+        "header": "الدراسة على الخارج",
+        "content": "لقد أنهيت للتو برنامج تبادل لمدة عام في الجامعة الأمريكية في باريس! لقد كنت في فرنسا طوال عام ٢٠٢١ ، وتجاوزت عمليات الإغلاق والإضرابات بينما اكتسبت خبرة حياتية قيمة. أكملت الدورات الدراسية في كل من علوم الكمبيوتر وعلم النفس ، وكذلك في اللغة والثقافة الفرنسية."
+      },
+      "work": {
+        "header": "الخبرات العملية",
+        "content": "صيف ٢٠٢١ ، أكملت تدريبي الخامس: مطور ويب للواجهة الأمامية في <Link><ltr>Qantev</ltr></Link>. هناك ، عملت في حزمة تطوير قائمة على <ltr>React</ltr> ، وأنشأت ميزات جديدة لتطبيق الإنتاج لدينا. لقد ساعدت أيضًا في إجراء جلسة ضمان الجودة الصارمة قبل شحن إصدار جديد من التطبيق. أخيرًا ، تعلمت أساسيات تطوير الواجهة الخلفية (باستخدام <ltr>Python & Pandas</ltr>) ، وبلغت ذروتها في ميزة جديدة لمدة شهر قمت بتنفيذها بمفردي."
+      },
+      "freelance": {
+        "header": "العمل الخاص",
+        "content": "أنا أيضا أعمل على تطوير الويب لحسابهم الخاص! أعمل بشكل أساسي مع الشركات الصغيرة (على الرغم من أنني منفتح على أي شيء) ، مع التركيز على توفير الموارد والتدريب لضمان وظائف طويلة الأجل."
+      },
+      "skills": {
+        "header": "المهارات",
+        "content": [
+          "<strong>اللغات (التقديم)</strong> : الإنجليزية، الفرنسية، لغة الإشارة الأمريكية",
+          "<strong>اللغات (البرمجة)</strong> : <ltr>React, GraphQL, Java, HTML, CSS, JavaScript, Visual Basic .NET, C++, PHP, SQL, Python, R</ltr>",
+          "<strong>الأدوات</strong> : <ltr>React، GraphQL، Java، HTML، CSS، JavaScript، Visual Basic .NET، C++، PHP، SQL، Python، R</ltr>"
+        ],
+        "certifications": {
+          "header": "الشهادات",
+          "content": [
+            "أساسيات التسويق الرقمي، <ltr>Google</ltr> (معتمد في أبريل ٢٠٢٠)",
+            "<ltr>Microsoft Office Specialist (MOS) Master 2016</ltr> (معتمد في خريف ٢٠١٨)",
+            "<ltr>MOS Word 2016 Expert, MOS Excel 2016 Expert</ltr> (معتمد في خريف ٢٠١٨)"
+          ]
+        }
+      },
+      "contact": {
+        "header": "التواصل",
+        "content": {
+          "phone": "<strong>رقم أمريكي</strong> : <Link><ltr>+1 513 813 6421</ltr></Link>",
+          "email": "<strong>البريد الإلكتروني</strong> : <Link><ltr>daltoncraven@protonmail.com</ltr></Link>",
+          "github": "<strong><ltr>GitHub</ltr></strong> : <Link><ltr>cravend</ltr></Link>",
+          "gitlab": "<strong><ltr>GitLab</ltr></strong> : <Link><ltr>cravend</ltr></Link>",
+          "linkedin": "<strong><ltr>LinkedIn</ltr></strong> : <Link><ltr>daltoncraven</ltr></Link>",
+          "gpg": "<strong><ltr>GPG</ltr></strong> : <Link><ltr>0xFF3FA75081B3B98C</ltr></Link>"
+        }
+      }
+    }
+  }
+}
