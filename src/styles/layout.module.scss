@@ -1,0 +1,16 @@
+@use './variables';
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: variables.$dark;
+    color: variables.$light;
+}
+
+.hr {
+    margin: 0;
+    border-top: 1.5rem solid variables.$accent;
+}
